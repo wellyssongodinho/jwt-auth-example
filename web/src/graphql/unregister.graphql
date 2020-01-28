@@ -1,0 +1,3 @@
+mutation Unregister($id: String!, $email: String!) {
+  unregister(id: $id, email: $email)
+}
