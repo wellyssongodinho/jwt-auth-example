@@ -31,9 +31,11 @@ jwt-auth-example per benawad
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [GraphQL](https://https://graphql.org/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [GraphQL](https://https://graphql.org/_
+- [TypeORM](https://typeorm.io/)
+
 
 ## 💻 Projeto
 
