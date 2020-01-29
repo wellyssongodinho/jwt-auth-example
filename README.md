@@ -42,7 +42,8 @@ O jwt-auth-example visa demonstar a utilização do json web token em conjunto c
 ## 🔖 Layout
 
 Você pode baixar o projeto direto do site https://github.com/benawad/jwt-auth-example
-O passa a passo do projeto poderá ser acessado através do youtube https://youtu.be/25GS0MLT8JU
+
+O passo a passo do projeto poderá ser acessado através do youtube https://youtu.be/25GS0MLT8JU
 
 ## 🤔 Como contribuir
 
