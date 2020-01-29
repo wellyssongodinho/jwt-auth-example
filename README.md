@@ -10,7 +10,7 @@ jwt-auth-example per benawad
   ☕ Coffee, code and beer
 </h4>
 <p align="center">
-    <img alt="life-dev" title="cheers" src=".github/coffee-code-bee.jpg" widh="150px" />
+    <img alt="life-dev" title="cheers" src=".github/coffee-code-beer.jpg" widh="150px" />
 </p>
 
 <p align="center">
