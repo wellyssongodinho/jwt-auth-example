@@ -10,7 +10,7 @@ jwt-auth-example per benawad
   ☕ Coffee, code and beer
 </h4>
 <p align="center">
-    <img alt="life-dev" title="cheers" src=".github/coffee-code-bee.jpg" widh="150px" />
+    <img alt="life-dev" title="cheers" src=".github/coffee-code-beer-dark.jpeg" widh="150px" />
 </p>
 
 <p align="center">
@@ -31,9 +31,11 @@ jwt-auth-example per benawad
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [GraphQL](https://https://graphql.org/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [GraphQL](https://https://graphql.org/_
+- [TypeORM](https://typeorm.io/)
+
 
 ## 💻 Projeto
 
